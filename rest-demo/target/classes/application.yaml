@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cloud_vendor_db?useSSL=false
+    username: root
+    password: Praveen Kumar
+
+#JPA Settings
+  jpa.hibernate.ddl_auto: create
